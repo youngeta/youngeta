@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @youngeta
 - 👀 I’m interested in DevOps, ☁️ & Community
 - 🌱 I’m currently learning CI/CD
-- 📫 Reach me via mail agboyoung10@gmail.com
+- 📫 Reach me via mail youngeta249@gmail.com
 - 🗃 Check out my working experience https://linkedin.com/in/young-eta
 - 📖 Read my Articles https://bantuvoices.medium.com/
 <!---
