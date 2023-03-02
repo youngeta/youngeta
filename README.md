@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @youngeta
-- 👀 I’m interested in DevOps, ☁️ & Community
+- 👀 I’m interested in Blockchain ☁️ & DevOps
 - 🌱 I’m currently learning CI/CD
 - 📫 Reach my email youngeta249@gmail.com
 - 🗃 Check out my working experience https://linkedin.com/in/young-eta
