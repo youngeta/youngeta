@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @agboeta
-- 👀 I’m interested in QA testing & DevOps
-- 🌱 I’m currently learning CI/CD
 - 📫 Reach my email agboyoung10@gmail.com
 - 📖 Read my Articles https://www.youngafricanpioneers.co.uk/
 <!---
